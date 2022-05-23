@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+    <h1>Hello, I'm Alex 👋</h1>
+</div>
 
-<!--
-**ahoulton/ahoulton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- I'm 17 year old and from England.
+- I'm fluent in Skript and somewhat in Python.</br>
 
-Here are some ideas to get you started:
+## Social Media
+- Discord: Houlton#0555 </br>
+- TikTok: [@ignHoulton](https://www.tiktok.com/@ignHoulton)</br>
+- NameMC: [Houlton](https://namemc.com/profile/Houlton.2)</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages
+- Python (somewhat).</br>
+- Skript.</br>
+
+## Github Stats.
+[![github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahoulton&theme=dracula)](https://github.com/ahoulton)
