@@ -10,4 +10,4 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/276468730589085707?idleMessage=Probably%20doing%20something%20which%20isn't%20Rich%20Presence%20supported.)](https://discord.com/users/276468730589085707)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahoulton&show_icons=true&theme=github_dark&hide_border=true"/> <br>
+[![Github SStatshttps://github-readme-stats.vercel.app/api?username=ahoulton&show_icons=true&theme=github_dark&hide_border=true]
