@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://cdn.upload.systems/uploads/Ju1UAsfl.gif">
     <h1>Hello, I'm Alex 👋</h1>
 </div>
 
