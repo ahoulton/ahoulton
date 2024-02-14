@@ -1,14 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Houlton===============================================================================================================================Minecraft Server Developer--------------------------I'm 19 years old and from England.* 🌍  I'm based in United Kingdom.* 🖥️  See my portfolio at [houlton.xyz](http://houlton.xyz)* ✉️  You can contact me at [me@houlton.xyz](mailto:me@houlton.xyz)* 🤝  I'm open to collaborating on Minecraft Servers.
+<div align="center">
+    <h1>Hello, I'm Alex 👋</h1>
+</div>
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a></p>
-### Socials<p align="left"> <a href="https://www.github.com/ahoulton" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ahoulton"><img src="https://github-readme-stats.vercel.app/api?username=ahoulton&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahoulton's GitHub stats" /></a>
+## About me
+- I'm 19 years old and from England.
+- I'm fluent in Skript and somewhat in Python.</br>
+- Wanna learn more about me? Click [here](https://solo.to/houlton).
