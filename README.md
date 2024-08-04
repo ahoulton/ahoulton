@@ -3,6 +3,5 @@
 </div>
 
 ## About me
-- I'm 19 years old and from England.
-- I'm fluent in Skript and somewhat in Python.</br>
+- I'm 20 years old and from England.
 - Wanna learn more about me? Click [here](https://solo.to/houlton).
