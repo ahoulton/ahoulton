@@ -3,5 +3,5 @@
 </div>
 
 ## About me
-- I'm 20 years old and from England.
-- Wanna learn more about me? Click [here](https://solo.to/houlton).
+- I'm 21 years old and from England.
+- Wanna learn more about me? Click [here](https://houlton.dev/).
